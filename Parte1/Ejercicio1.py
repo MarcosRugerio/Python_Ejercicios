@@ -1,4 +1,4 @@
-def max(num1,num2):
+def max():
     num1 = input("Escribe el primer número: ")
     num2 = input("\nEscribe el segundo número: ")
     if num1>num2:
@@ -9,4 +9,4 @@ def max(num1,num2):
         print("Los dos numeros son iguales")
 
 
-max(5,8)
+max()

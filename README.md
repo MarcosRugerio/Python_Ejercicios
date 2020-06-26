@@ -10,9 +10,9 @@ Repositorio para prácticar ejercicios con Python, Sintaxis, etc
 ## Aqui esta el sitio donde estamos realizando los ejercicios
 [Ejercicios de Python](http://www.pythondiario.com/2013/05/ejercicios-en-python-parte-1.html)
 
-1. Definir una función max() que tome como argumento dos números y devuelva el mayor de ellos. (Es cierto que python tiene una función max() incorporada, pero hacerla nosotros mismos es un muy buen ejercicio.
+1. Definir una función max() que tome como argumento dos números y devuelva el mayor de ellos. (Es cierto que python tiene una función max() incorporada, pero hacerla nosotros mismos es un muy buen ejercicio. - [x] Done
 
-2. Definir una función max_de_tres(), que tome tres números como argumentos y devuelva el mayor de ellos.
+2. Definir una función max_de_tres(), que tome tres números como argumentos y devuelva el mayor de ellos. - [x] Done
 
 3. Definir una función que calcule la longitud de una lista o una cadena dada. (Es cierto que python tiene la función len() incorporada, pero escribirla por nosotros mismos resulta un muy buen ejercicio.
 
